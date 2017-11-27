@@ -1,0 +1,1 @@
+This folder contains the R-markdown file "main.Rmd" and the knitted PDF "main.pdf".
