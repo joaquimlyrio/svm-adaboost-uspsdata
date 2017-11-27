@@ -5,4 +5,4 @@ This folder contains the 'helpers.R' script that contains the following auxiliar
   - classify
   - AdaBoost
 
- These are called by the R-markdown file.
+ These are called by the 'main' R-markdown file.
